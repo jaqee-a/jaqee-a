@@ -1,6 +1,6 @@
 ### Hi there 👋, This is Mohammed Amine Bouderbala
 
-Im mostly active in BitBucket :(
+Since the company im working with uses BItbucket Im mostly active in there :(
 <!--
 **jaqee-a/jaqee-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
